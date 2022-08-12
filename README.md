@@ -1,6 +1,6 @@
 # Crypto-Currency
-## Overview
-The purpose of this project is to  create a report for an investment bank which is interested in offering a new cryptocurrency investment portfolio. The report in the analysis shows cryptocurrencies that are on the trading market and how they could be grouped by a classification system for this new investment. In order to complete this analysis, I am performing unsupervised machine learning functions on data provided by CryptoCompare.
+## Goal
+The goal was to reate a report for an investment bank which is interested in offering a new cryptocurrency investment portfolio. The report in the analysis shows cryptocurrencies that are on the trading market and how they could be grouped by a classification system for this new investment. In order to complete this analysis, I am performing unsupervised machine learning functions on data provided by CryptoCompare. The data used was a list of cryptocurrencies that were available for trading on the market.
 ## Results  
 I started out by cleaning the data that was provided and the result were cryptocurrencies that are currently trading, have a defined algorithm, and a complete data set. 
 I was left with 532 different types after the data was cleaned. Below is a 3d scatter plot of three different groups of cryptocurrencies that are grouped together 
